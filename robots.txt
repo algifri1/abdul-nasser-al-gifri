@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://algifri1.github.io/abdul-nasser-al-gifri/sitemap.xml
